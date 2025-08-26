@@ -1,4 +1,4 @@
-A simple tweak taht will rescale your current contact image (if exists) to full screen if its not already is. mainly good for users who imported images from whatsapp / facebook / etc.
+A simple tweak that will rescale your current contact image (if exists) to full screen if its not already is. mainly good for users who imported images from whatsapp / facebook / etc.
 
 
 
