@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>FIX ALL CONTACTS AT ONCE</string>
+			<key>footerText</key>
+			<string>This will fix all your contacts images to be resized into a full screen image. The contact image will be saved into the contact itself, so your backup of contacts will have the correct image.</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>fixContacts:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Rescale All Contacts Images to Fullscreen</string>
+		</dict>
+				<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>ABOUT ME</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donationLink</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>donate.png</string>
+			<key>label</key>
+			<string>Buy me a beer ;)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>openTwitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Twitter.png</string>
+			<key>label</key>
+			<string>Follow me on Twitter</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>openGithub</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>GitHub.png</string>
+			<key>label</key>
+			<string>Source Code</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Made by: 0xkuj | v1.0.0</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>ContactsFullScreen</string>
+</dict>
+</plist>
